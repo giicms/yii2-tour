@@ -1,0 +1,17 @@
+{    
+    "name": "giicms/yii2-tour",
+    "description": "Module tour",
+    "homepage": "https://github.com/giicms/yii2-tour",
+    "keywords": ["yii2","tour"],
+    "license": "MIT",
+    "minimum-stability": "beta",
+    "require": {
+        "php": ">=5.6",
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "giicms\\tour\\": ""
+        }
+    }
+}
